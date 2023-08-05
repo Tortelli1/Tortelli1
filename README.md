@@ -1,5 +1,7 @@
-### Hi there, welcome! 👋
+# Olá, seja bem vindo viajante! 🤙
 
+Este é meu **humilde** perfil, criado para compartilhar, aprender e também poder ajudar nos mais derivados projetos, relacioandos à programação (até onde meu conhecimento permitir) e poder extrair disso, todo o conhecimento que eu ainda não tenho, mas estou disposto à adquirir.
+ 
 <!--
 **Joosephino/Joosephino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
