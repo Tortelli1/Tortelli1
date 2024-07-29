@@ -11,7 +11,7 @@ Este é meu **humilde** perfil, criado para compartilhar, aprender e também pod
 </div>
 
 <div>
-<a href="https://github.com/Joosephino">
+<a href="https://github.com/Tortelli1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joosephino&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joosephino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
