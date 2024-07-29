@@ -1,8 +1,8 @@
 # Olá, seja bem vindo viajante! 
 
-Este é meu **humilde** perfil, criado para compartilhar, aprender e também poder ajudar nos mais derivados projetos, relacioandos à programação (até onde meu conhecimento permitir) e poder extrair disso, todo o conhecimento que eu ainda não tenho, mas estou disposto à adquirir.
+Neste perfil, utilizo para compartilhar e aprender tudo relacionado à programação.
 
-## Contatos:
+## Meus contatos:
 
 <div>
 <a href="https://instagram.com/_marcotortelli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@ Este é meu **humilde** perfil, criado para compartilhar, aprender e também pod
 <a href="https://www.linkedin.com/in/marcotortelli21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Tecnologias
+## Tecnologias:
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,spring,html,css)](https://skillicons.dev)
 
