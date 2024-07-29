@@ -10,6 +10,10 @@ Este é meu **humilde** perfil, criado para compartilhar, aprender e também pod
 <a href="https://www.linkedin.com/in/marcotortelli21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,spring,html,css)](https://skillicons.dev)
+
 <div>
 <a href="https://github.com/Tortelli1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tortelli1&layout=compact&langs_count=7&theme=dracula"/>
