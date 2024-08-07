@@ -2,6 +2,11 @@
 
 Neste perfil, utilizo para compartilhar e aprender tudo relacionado à programação.
 
+---
+
+* 🧑‍💻 Sou acadêmico de Engenharia de Computação;
+* 🖥️ Trabalho como Suporte de Sistemas na Unoesc;
+
 ## Meus contatos:
 
 <div>
