@@ -17,7 +17,7 @@ Neste perfil, utilizo para compartilhar e aprender tudo relacionado √† programa√
 
 ## Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,spring,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,spring,git,mysql)](https://skillicons.dev)
 
 <div>
 <a href="https://github.com/Tortelli1">
