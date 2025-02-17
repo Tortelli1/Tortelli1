@@ -1,4 +1,4 @@
-# Olá, seja bem vindo viajante! 😄
+# Olá, seja bem vindo! 😄
 
 Neste perfil, compartilho e aprendo tudo que sei relacionado à programação.
 
