@@ -19,6 +19,13 @@ Neste perfil, compartilho e aprendo tudo que sei relacionado à programação.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,git,mysql)](https://skillicons.dev)
 
+---
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tortelli1&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tortelli1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 <div>
 <a href="https://github.com/Tortelli1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tortelli1&layout=compact&langs_count=7&theme=dracula"/>
