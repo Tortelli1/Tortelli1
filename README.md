@@ -1,6 +1,6 @@
 # Olá, seja bem vindo! 😄
 
-Neste perfil, compartilho e aprendo tudo que sei relacionado à programação.
+Neste perfil, compartilho tudo que sei e aprendo relacionado à programação.
 
 ---
 
