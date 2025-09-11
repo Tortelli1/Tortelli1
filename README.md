@@ -21,7 +21,7 @@ Neste perfil, compartilho tudo que sei e aprendo relacionado à programação.
 
 ---
 
-![Status](./profile-3d-contrib/profile-night-view.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tortelli1&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tortelli1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
