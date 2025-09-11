@@ -5,7 +5,7 @@ Neste perfil, compartilho tudo que sei e aprendo relacionado à programação.
 ---
 
 * 🧑 Sou acadêmico de Engenharia de Computação;
-* 🖥️ Trabalho como Suporte de Sistemas na Unoesc;
+* 🖥️ Trabalho como Desenvolvedor Fullstack Java na Unoesc;
 
 ## Meus contatos:
 
