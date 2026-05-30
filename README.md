@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Tortelli1&label=Visualizações&color=0e75b6&style=flat" alt="Tortell1" />
+
 # Olá, seja bem vindo! 😄
 
 Neste perfil, compartilho tudo que sei e aprendo relacionado à programação.
